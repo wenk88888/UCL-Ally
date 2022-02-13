@@ -33,6 +33,7 @@ https://user-images.githubusercontent.com/86779601/153744185-0bc1f100-501c-4a12-
 - Ally, the friendly chat bot starts with a simple survey/questionairre to gauge the student's personality and interest.
 - All these information feed into the learning algorithm of Ally to provide smart suggestions to help a student's time mangement balancing between academic commitments and extracurricular activities.
 
+Here's a prototype of our bot assistant Ally :https://creator.voiceflow.com/prototype/6207eda2e8a217bb810c0822 
 
 ## Accomplishments that we're proud of
 - Enhanced the overall student experience through an engaging and user friendly method by introducing a bot as a companion to students  
