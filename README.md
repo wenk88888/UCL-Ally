@@ -5,7 +5,7 @@
 
 ## Inspiration
 - Students normally get alerts on events around them and information in the form of newsletter that most people do not go through in detail and consequently miss events that may be of interest to them.
-- Inspired by voice assistants such as Siri, Alexa, Bixby We want to create a tool which is interactive, engaging and user-friendly which ensures that students receive personalised recommendations for contents they like and smart suggestions to help them navigate through various situations.
+- Inspired by voice assistants such as Siri, Alexa, Bixby and automated chat bots, we want to create a tool which is interactive, engaging and user-friendly which ensures that students receive personalised recommendations for contents they like and smart suggestions to help them navigate through various situations.
 
 ## What it does
 Meet Ally, your companion of all things UCL student life. 
