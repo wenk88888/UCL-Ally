@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/86779601/153744185-0bc1f100-501c-4a12-
 
 ## What we learned
 
-## What's next for (Team 10) UCL Ally
+## What's next for (Team 9) UCL Ally
 - Extending the use of Ally to other universities and even outside of HEI setting such as companies.
 - Possible to build a web version to cater for those who prefer to use it on a web browser instead
 - More features to be updated into the app based on feedback and suggestions from users
