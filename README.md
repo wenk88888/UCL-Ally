@@ -1,7 +1,7 @@
 # UCL-Ally
 
 ## Problem Statement and Inspiration
-The COVID-19 pandemic undoubtedly has impacted student experience at HEI which has caused a lack of sense of space and belonging as a member of university. This has adverse effect on the emotional wellbeing and consequently their academic performance and overall student satisfaction.
+The COVID-19 pandemic undoubtedly has impacted student experience at higher education insitution which has caused a lack of sense of space and belonging as a member of university. This has adverse effect on the emotional wellbeing and consequently their academic performance and overall student satisfaction.
 
 Common questions by new and current UCL students :
 - How well do you know about the spaces and facilities available at UCL and how you should make full use of them?
